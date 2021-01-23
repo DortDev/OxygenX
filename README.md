@@ -1,4 +1,4 @@
-#keeping this aside incase the original git goes down.
+# keeping this aside incase the original git goes down.
 
 # DISCONTINUED UNTIL FURTHER NOTICE
 
