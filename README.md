@@ -1,3 +1,5 @@
+#keeping this aside incase the original git goes down.
+
 # DISCONTINUED UNTIL FURTHER NOTICE
 
 # Labymod cape check is broken so turn it off in the settings file
